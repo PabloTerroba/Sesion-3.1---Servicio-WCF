@@ -1,0 +1,7 @@
+C:\Users\pablo\source\repos\MathService\MathService\bin\Debug\MathService.dll.config
+C:\Users\pablo\source\repos\MathService\MathService\bin\Debug\MathService.dll
+C:\Users\pablo\source\repos\MathService\MathService\bin\Debug\MathService.pdb
+C:\Users\pablo\source\repos\MathService\MathService\obj\Debug\MathService.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\MathService\MathService\obj\Debug\MathService.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\MathService\MathService\obj\Debug\MathService.dll
+C:\Users\pablo\source\repos\MathService\MathService\obj\Debug\MathService.pdb
