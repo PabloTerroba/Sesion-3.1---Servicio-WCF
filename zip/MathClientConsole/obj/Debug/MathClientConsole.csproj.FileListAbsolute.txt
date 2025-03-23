@@ -1,0 +1,7 @@
+C:\Users\Belén\source\repos\MathService\MathClientConsole\bin\Debug\MathClientConsole.exe.config
+C:\Users\Belén\source\repos\MathService\MathClientConsole\bin\Debug\MathClientConsole.exe
+C:\Users\Belén\source\repos\MathService\MathClientConsole\bin\Debug\MathClientConsole.pdb
+C:\Users\Belén\source\repos\MathService\MathClientConsole\obj\Debug\MathClientConsole.csproj.AssemblyReference.cache
+C:\Users\Belén\source\repos\MathService\MathClientConsole\obj\Debug\MathClientConsole.csproj.CoreCompileInputs.cache
+C:\Users\Belén\source\repos\MathService\MathClientConsole\obj\Debug\MathClientConsole.exe
+C:\Users\Belén\source\repos\MathService\MathClientConsole\obj\Debug\MathClientConsole.pdb

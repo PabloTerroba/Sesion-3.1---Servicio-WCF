@@ -1,0 +1,11 @@
+C:\Users\Belén\source\repos\MathService\MathServiceHost2\bin\Debug\MathServiceHost2.exe.config
+C:\Users\Belén\source\repos\MathService\MathServiceHost2\bin\Debug\MathServiceHost2.exe
+C:\Users\Belén\source\repos\MathService\MathServiceHost2\bin\Debug\MathServiceHost2.pdb
+C:\Users\Belén\source\repos\MathService\MathServiceHost2\bin\Debug\MathService.dll
+C:\Users\Belén\source\repos\MathService\MathServiceHost2\bin\Debug\MathService.pdb
+C:\Users\Belén\source\repos\MathService\MathServiceHost2\bin\Debug\MathService.dll.config
+C:\Users\Belén\source\repos\MathService\MathServiceHost2\obj\Debug\MathServiceHost.csproj.AssemblyReference.cache
+C:\Users\Belén\source\repos\MathService\MathServiceHost2\obj\Debug\MathServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Belén\source\repos\MathService\MathServiceHost2\obj\Debug\MathServ.1186A3E1.Up2Date
+C:\Users\Belén\source\repos\MathService\MathServiceHost2\obj\Debug\MathServiceHost2.exe
+C:\Users\Belén\source\repos\MathService\MathServiceHost2\obj\Debug\MathServiceHost2.pdb
