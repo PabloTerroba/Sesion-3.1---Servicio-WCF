@@ -1,0 +1,17 @@
+﻿<Window x:Class="MathServiceWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MathServiceWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="Resultado" Content="" HorizontalAlignment="Left" Margin="400,235,0,0" VerticalAlignment="Top" Height="36" Width="210"/>
+        <Label Content="Resultado" HorizontalAlignment="Left" Margin="121,235,0,0" VerticalAlignment="Top" Height="36" Width="146"/>
+        <Label Content="Número:" HorizontalAlignment="Left" Margin="121,108,0,0" VerticalAlignment="Top" Height="36" Width="146"/>
+        <TextBox x:Name="Valor" HorizontalAlignment="Left" Margin="400,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="210" Height="36" TextChanged="TextBox_TextChanged_1"/>
+        <Button Content="Primo" HorizontalAlignment="Left" Margin="486,344,0,0" VerticalAlignment="Top" Height="39" Width="124" Click="Button_Click"/>
+
+    </Grid>
+</Window>
